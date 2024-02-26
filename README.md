@@ -1,5 +1,5 @@
 Patika sitesinin Java Swing ile masaüstü versiyonu geliştirildi.
-CRUD operasyonları oluşturuldu.
+Login sayfası tasarlandı ve tamamlandı. Veri tabanı ile bağlantısı oluşturuldu ve veriler ile ilgili CRUD operasyonları gerçekleştirildi. 
 
 
 ![1](https://github.com/ezgidolma/PatikaClone/assets/88343326/d91c9482-a0ff-40b8-b39b-978682676c50)
